@@ -1,0 +1,8 @@
+{
+  "name": "nnsight",
+  "version": "1.0.0",
+  "description": "Neural network interpretability with nnsight - tracing, patching, steering, and analysis",
+  "author": {
+    "name": "NDIF Team"
+  }
+}
