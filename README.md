@@ -76,7 +76,7 @@ skills/
 
 ## Resources
 
-- [NNsight Documentation](https://nnsight.net/)
-- [NNsight Tutorials](https://nnsight.net/walkthroughs/)
+- [NNsight Documentation](https://nnsight.net/documentation/)
+- [NNsight Tutorials](https://nnsight.net/tutorials/tutorials/)
 - [NDIF Platform](https://ndif.us/) - Remote access to large models
 - [Agent Skills Specification](https://agentskills.io/)
