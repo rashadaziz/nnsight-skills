@@ -39,6 +39,7 @@ skill-installer install https://github.com/ndif-team/skills.git
 | **attribution-patching** | Scaling circuit analysis with gradient approximations |
 | **causal-tracing** | Investigating information flow and mediation |
 | **model-steering** | Controlling outputs with steering vectors and persistent edits |
+| **vllm-support** | Running NNsight tracing/interventions on vLLM with async streaming and invoke-based batching |
 
 ## Example Prompts
 
